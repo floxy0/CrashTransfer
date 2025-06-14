@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - master
 projects:
-  CrashTransfer:
+  CrashTransferPM5:
     path: ""
     lint:
       phpstan: false
