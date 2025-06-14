@@ -1,6 +1,6 @@
 name: CrashTransferPM5
 author: Xenophilicy
-version: 1.0.0
+version: 5.0.0
 description: Transfers players when the server stops
 main: Xenophilicy\CrashTransfer\CrashTransfer
 api: 5.0.0
